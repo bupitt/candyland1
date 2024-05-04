@@ -1,0 +1,18 @@
+/* Globales */
+*::after,
+*::before,
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 0 auto;
+    max-width: 1200px;
+    font-family: 'lato';
+    color: #8F868A;
+}
+.icon-cart{
+    width: 40px;
+
+}
